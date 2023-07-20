@@ -14,7 +14,7 @@ LinkedIn is a professional networking platform with job search functionality. I 
   - Again, since a job post can have 1000+ applicants in half a day, the minimum of 1 day is not sufficient.
   - Also, it will be better if I can choose any time.
 - Unable to filter or sort based on the required years of experience.
-  - Most of the jobs require 5+ yoe, but I am interested in those with 5- yoe.
+  - They have a very rough filter on experience level, but I want a more specific one.
 
 ## What's new
 - Jobs are ordered by relevance.
