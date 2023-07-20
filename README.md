@@ -21,4 +21,5 @@ LinkedIn is a professional networking platform with job search functionality. I 
   - Data-related jobs can have various job titles, therefore it will be important to define "relevance". To address this, I add a feature that can capture different titles/keywords, and it is customizable.
 - Jobs are ordered by number of applicants.
 - Filter on posting date is customizable.
+  - 0.5 day is possible! 
 - Jobs are ordered by yoe.
