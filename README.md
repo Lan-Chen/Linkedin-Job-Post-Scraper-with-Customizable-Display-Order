@@ -23,3 +23,7 @@ LinkedIn is a professional networking platform with job search functionality. I 
 - The filter for posting date is now customizable.
   - You can now set a filter as specific as 0.5 day!
 - Jobs can be sorted by years of experience (yoe).
+
+## Future ideas
+- Combining the strength of LinkedIn and Glassdoor
+  - While LinkedIn offers a greater number of job posts, Glassdoor provides more comprehensive information, such as salaries and company reviews. My current project is beneficial for the initial stage of job search, but it can greatly enhance the entire job-seeking process if integrating data from Glassdoor.
